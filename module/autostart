@@ -1,0 +1,13 @@
+#!/bin/bash -p
+#Desc: UDPGW Enabler[autostart]
+#Author: mr.vybes
+#06/04/23
+
+#AUTOMATIC START
+echo "Desc: UDPGW Enabler[auto-starter]"
+echo "Author: mr.vybes"
+echo "Dat: 06/04/23"
+echo "============="
+echo "UDPGW -ON"
+
+screen -dmS udpgw /bin/udpgw --listen-addr 127.0.0.1:7300 --max-clients 1000 --max-connections-for-client 100

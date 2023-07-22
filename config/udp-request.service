@@ -1,0 +1,14 @@
+[Unit]
+Description=UDP Request Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root
+ExecStart=/usr/bin/udp-request -ip=$ip_publica -net=$interface -mode=system
+Restart=always
+RestartSec=3s
+
+[Install]
+WantedBy=multi-user.target
