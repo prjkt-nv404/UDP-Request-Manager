@@ -21,6 +21,7 @@ see [commits](https://github.com/prjkt-nv404/UDP-Request-Manager/commits/main)
 
 # Supported OS
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
+- Debian 12 [x64] ✅ 
 - [arm] ❌
 
 ## Install
