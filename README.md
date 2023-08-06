@@ -16,7 +16,8 @@ UDP (User Datagram Protocol) is a network communication protocol that operates o
 ---
 ## Changelog: 
 see [commits](https://github.com/prjkt-nv404/UDP-Request-Manager/commits/main)
-
+- User Online Count
+- Account Backup/Restore
 ---
 
 # Supported OS
