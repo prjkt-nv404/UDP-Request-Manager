@@ -47,13 +47,15 @@ udp
  * You may run into ```keyexchange``` error if you mix it with **UDP Custom**, don't try to install both, they won't work at togethere..
 
 ## Telegram 
- > [voltssh](https://t.me/vp_voltssh)
+ > [💲 Pay](https://t.me/voltverifybot)
 
- > [Volt SSH Replies](https://t.me/VoltsshBot)
+ > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜𝚜𝚑 𝕏](https://t.me/voltssh)
+
+ > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷 𝙷𝚀 ⚝](https://t.me/voltsshhq)
 
 ## Credit
 
- > [@rudi9999]()
+ > [gregory andre](https://bitbucket.org/)
 
 #
   > _made from pieces with ❤️_
