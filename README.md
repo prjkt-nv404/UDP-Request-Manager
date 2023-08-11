@@ -30,7 +30,7 @@ see [commits](https://github.com/prjkt-nv404/UDP-Request-Manager/commits/main)
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/prjkt-nv404/UDP-Request-Manager/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
+apt-get update -y; apt-get upgrade -y; wget "https://raw.githubusercontent.com/prjkt-nv404/UDP-Request-Manager/main/install.sh" -O install.sh >/dev/null 2>&1; chmod 777 install.sh;./install.sh
 ```
 > after successful installation & reboot, type:
 ```
