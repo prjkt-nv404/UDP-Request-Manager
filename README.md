@@ -49,7 +49,7 @@ udp
 ## Telegram 
  > [💲 Pay](https://t.me/voltverifybot)
 
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜𝚜𝚑 𝕏](https://t.me/voltssh)
+ > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜𝚜𝚑 𝕏](https://t.me/voltsshx)
 
  > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷 𝙷𝚀 ⚝](https://t.me/voltsshhq)
 
