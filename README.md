@@ -47,9 +47,9 @@ udp
  * You may run into ```keyexchange``` error if you mix it with **UDP Custom**, don't try to install both, they won't work at togethere..
 
 ## Telegram 
- > [💲 Pay](https://t.me/voltverifybot)
+ > [💲 PayBot/Key](https://t.me/voltverifybot)
 
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜𝚜𝚑 𝕏](https://t.me/voltsshx)
+ > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏](https://t.me/voltsshx)
 
  > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷-𝕏 Club ⚝](https://t.me/voltsshxclub)
 
