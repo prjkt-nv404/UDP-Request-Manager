@@ -47,11 +47,11 @@ udp
  * You may run into ```keyexchange``` error if you mix it with **UDP Custom**, don't try to install both, they won't work at togethere..
 
 ## Telegram 
- > [💲 Pay](https://t.me/voltverifybot)
+ > [💲 Pay](https://t.me/voltverifybot) - ```Keys & Payment```
 
- > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx)
+ > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx) ```Admin```
 
- > [📣 LS Tunnel](https://t.me/lstunnel)
+ > [📣 LS Tunnel](https://t.me/lstunnel) - ```Channel```
 
 ## Credit
 
